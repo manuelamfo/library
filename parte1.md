@@ -3,7 +3,7 @@
 # Library refactoring example - Parte 1
 
 Neste exercício, iremos refatorar um sistema simples para aluguel de livros de uma biblioteca.
-Este exercício é adaptado do livro Refactoring de Martin Fowler e Kent Beck.
+Este exercício é adaptado do livro Refactoring, escrito por Martin Fowler e Kent Beck.
 Você deve realizar os commits descritos abaixo e submeter os links dos commits via Moodle.
 
 ### Overview
